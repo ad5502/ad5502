@@ -1,1 +1,0 @@
-https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/YouTubeAds.conf, tag=YoutubeAd, update-interval=172800, opt-parser=false, enabled=true
